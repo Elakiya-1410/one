@@ -1,3 +1,3 @@
 # one
-Starting git by watching youtube
-I am confused
+Starting git by watching youtube.
+I am confused.
